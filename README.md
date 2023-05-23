@@ -1,4 +1,4 @@
-# dart_data_validation
+# Dart Data Validation
 
 A package for data validation in Dart.
 

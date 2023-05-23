@@ -1,9 +1,9 @@
 name: dart_data_validation
 description: A package for data validation in Dart.
 version: 1.0.0
-homepage: https://github.com/altaysakarya/dart_basic_cache
-repository: https://github.com/altaysakarya/dart_basic_cache.git
-documentation: https://github.com/altaysakarya/dart_basic_cache/blob/master/README.md
+homepage: https://github.com/altaysakarya/dart_data_validation
+repository: https://github.com/altaysakarya/dart_data_validation.git
+documentation: https://github.com/altaysakarya/dart_data_validation/blob/master/README.md
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
