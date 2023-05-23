@@ -103,7 +103,7 @@ void main() {
 
 ### Validator Example
 
-<img src="https://raw.githubusercontent.com/altaysakarya/dart_data_validation/abe289e7b6ac9aaaddbcfa05a6f4566d5ed24991/gif_video.gif?raw=true" height="300" alt="Example GIF">
+<img src="https://raw.githubusercontent.com/altaysakarya/dart_data_validation/abe289e7b6ac9aaaddbcfa05a6f4566d5ed24991/gif_video.gif?raw=true" height="400" alt="Example GIF">
 
 
 ```dart
