@@ -103,7 +103,8 @@ void main() {
 
 ### Validator Example
 
-![Example GIF](https://raw.githubusercontent.com/altaysakarya/dart_data_validation/abe289e7b6ac9aaaddbcfa05a6f4566d5ed24991/gif_video.gif?raw=true)
+<img src="https://raw.githubusercontent.com/altaysakarya/dart_data_validation/abe289e7b6ac9aaaddbcfa05a6f4566d5ed24991/gif_video.gif?raw=true" height="200" alt="Example GIF">
+
 
 ```dart
 import 'package:flutter/material.dart';
