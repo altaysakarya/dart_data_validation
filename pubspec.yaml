@@ -1,6 +1,6 @@
 name: dart_data_validation
 description: A powerful data validation package for Dart that provides a flexible way to validate various data types and structures.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/altaysakarya/dart_data_validation
 repository: https://github.com/altaysakarya/dart_data_validation.git
 documentation: https://github.com/altaysakarya/dart_data_validation/blob/master/README.md
