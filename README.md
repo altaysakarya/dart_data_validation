@@ -19,6 +19,16 @@ dependencies:
 
 <a href="https://www.buymeacoffee.com/altaysakarya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+### Features
+
+* Data validation: Validate your data using custom rules and exclude specific data types from validation.
+* Validation result: Get detailed information about the validation result, including whether the data is valid or not, and the list of error messages if validation fails.
+* TextFormField validation: Conveniently validate user input in Flutter's TextFormField widget using the textFormFieldValidator method.
+* Easy to use: Simply define your validation rules and use the validate method or textFormFieldValidator method for validation.
+* Customizable error messages: Provide custom error messages for validation failures to give meaningful feedback to users.
+* Flexible rule definition: Define validation rules as functions that take a dynamic parameter and return a boolean value, allowing for complex validation scenarios.
+* Integration with Flutter: Seamlessly integrate data validation into your Flutter applications.
+
 ### Usage
 
 Import the package in your Dart file:
