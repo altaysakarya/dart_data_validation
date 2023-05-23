@@ -5,3 +5,7 @@
 ## 1.0.1
 
 * Basic changes
+
+## 1.0.2
+
+* Change description
