@@ -12,7 +12,7 @@ To use this package, add `dart_data_validation` as a dependency in your `pubspec
 
 ```yaml
 dependencies:
-  dart_data_validation: ^1.0.0
+  dart_data_validation: ^1.0.1
 ```
 
 ## Buy Me A Coffee ☕️
